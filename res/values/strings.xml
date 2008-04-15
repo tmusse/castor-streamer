@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Castor</string>
+    <string name="do_genre">Open Genre</string>
+    <string name="do_stream">Open Stream</string>
+    <string name="do_back">Back</string>
+</resources>
